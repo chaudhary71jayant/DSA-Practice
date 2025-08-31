@@ -142,7 +142,7 @@
 ## Day 26 :
 
 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-\
+
 [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 [Sort an Array](https://leetcode.com/problems/sort-an-array/)
